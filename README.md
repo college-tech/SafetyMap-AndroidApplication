@@ -116,6 +116,9 @@ Before you begin, ensure you have the following ready:
 * **Android Studio** (Latest stable version recommended, e.g., Koala or Ladybug).
 * **Android Device or Emulator** running Android 8.0 (API 26) or higher.
 * **Google Maps API Key** (Generated via Google Cloud Console with the *Maps SDK for Android* enabled).
+* The SafetyMap system consists of two repositories:
+  * Android Application (this repository)
+  * Backend Server ( You need this server also, link given below..)
 
 ### 2. Clone the Repository
 Open your terminal or command prompt and run:
